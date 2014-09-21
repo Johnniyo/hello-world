@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another Github reposititory.
+Dear Lord!
